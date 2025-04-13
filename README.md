@@ -30,11 +30,3 @@ invoices/
 ├── save-invoice.php     # Generates & saves PDF
 ├── /tcpdf/              # TCPDF library
 ├── /invoices/           # Saved PDFs
-
-🚀 Getting Started
-
-Clone the repogit clone https://github.com/AbhaayB/Custom-Invoices.git
-
-Serve with local PHP serverphp -S localhost:8000
-
-Open in browserhttp://localhost:8000/invoice.php
